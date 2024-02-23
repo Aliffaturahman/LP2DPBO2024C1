@@ -9,6 +9,8 @@ Pada bahasa Java, Python dan C++ program akan menampilkan beberapa pilihan menu 
 Untuk program pada bahasa PHP tidak menerima inputan, jadi untuk datanya manual dari kode saja / hardcode.
 
 ## Desain Program
+![Desain_LP2_DPBO drawio](https://github.com/Aliffaturahman/LP2DPBO2024C2/assets/100842759/5feb3c15-018d-4fa2-8d86-792c299b77dd)  
+
 Dalam kode program ini dibuat dengan 3 kelas utama,yaitu :
 
 **1. Class Product (parent atau superclass)**
@@ -32,6 +34,7 @@ Memiliki 2 atribut beserta method Setter dan Getter pada setiap atributnya :
 - color
 - sleeve type
 
+
 ## Dokumentasi
 ### Berikut adalah contoh dokumentasi yang digunakan pada 4 bahasa (Python, C++, Java, dan PHP), salah satunya adalah Python
 **1. Tampilan Awal**
@@ -43,17 +46,30 @@ Memiliki 2 atribut beserta method Setter dan Getter pada setiap atributnya :
 ![Menu 1 - Tambah Data](https://github.com/Aliffaturahman/LP2DPBO2024C2/assets/100842759/2a4f8df4-d1a0-45f4-92ca-599003abdd5f)
 
 **3. Menu 2 - Ubah Data**
+
 ![Menu 2 - Ubah Data](https://github.com/Aliffaturahman/LP2DPBO2024C2/assets/100842759/46150dc9-c21d-46e8-a4a7-90e12b53fbfc)
 
 **4. Menu 4 - Tampil Data (Seletah Ubah Data)**
+
 ![Menu 4 - Tampil Data (Seletah Ubah Data)](https://github.com/Aliffaturahman/LP2DPBO2024C2/assets/100842759/265ec51b-ae9c-46c2-bb69-2b2fd42a6b84)
 
 **5. Menu 3 - Hapus Data**
+
 ![Menu 3 - Hapus Data](https://github.com/Aliffaturahman/LP2DPBO2024C2/assets/100842759/a41b7f10-1a93-4bd6-b1ec-e897edb041ab)
 
 **6. Menu 4 - Tampil Data (Seletah Hapus Data)**
+
 ![Menu 4 - Tampil Data (Seletah Hapus Data)](https://github.com/Aliffaturahman/LP2DPBO2024C2/assets/100842759/5dfb722a-97ae-4a70-bb27-b9173e909e13)
 
 **7. Menu 5 - Keluar Program**
+
 ![Menu 5 - Keluar Program](https://github.com/Aliffaturahman/LP2DPBO2024C2/assets/100842759/202bccb6-8ebb-4efb-a23f-1e2c792f0019)
 
+### Berikut adalah contoh dokumentasi yang menggunakan bahasa PHP
+**1. Tampilan Halaman Awal**
+
+![Tampilan Awal](https://github.com/Aliffaturahman/LP2DPBO2024C2/assets/100842759/af021075-5082-4a67-aa16-2ee17b04ccdc)
+
+**2. Tampilan Halaman Setelah Menghapus Salah Satu Data)**
+
+![Tampilan Akhir (Setelah Hapus Pakaian)](https://github.com/Aliffaturahman/LP2DPBO2024C2/assets/100842759/93ab6fe4-1be0-4e0b-ad49-822155a1cc97)
