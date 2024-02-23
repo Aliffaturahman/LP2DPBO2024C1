@@ -8,7 +8,7 @@ Pada bahasa Java, Python dan C++ program akan menampilkan beberapa pilihan menu 
 
 Untuk program pada bahasa PHP tidak menerima inputan, jadi untuk datanya manual dari kode saja / hardcode.
 
-## Desain Program
+## Desain Program dengan *Class Diagram*
 ![Desain_LP2_DPBO drawio](https://github.com/Aliffaturahman/LP2DPBO2024C2/assets/100842759/5feb3c15-018d-4fa2-8d86-792c299b77dd)  
 
 Dalam kode program ini dibuat dengan 3 kelas utama,yaitu :
